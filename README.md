@@ -3,9 +3,6 @@ This repository converts a pretrained RAS caffemodel to a pytorch model. RAS den
 @inproceedings{chen2018eccv, 
   author={Chen, Shuhan and Tan, Xiuli and Wang, Ben and Hu, Xuelong}, 
   booktitle={European Conference on Computer Vision}, 
-  
   title={Reverse Attention for Salient Object Detection}, 
-  
   year={2018}
-  
 } 
